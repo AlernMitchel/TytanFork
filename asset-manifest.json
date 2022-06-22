@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3febdaaa.css",
-    "main.js": "/static/js/main.1279eee4.js",
+    "main.css": "/static/css/main.0d6d5c69.css",
+    "main.js": "/static/js/main.28783332.js",
     "static/js/108.f4430b5e.chunk.js": "/static/js/108.f4430b5e.chunk.js",
     "static/js/27.f38c07f3.chunk.js": "/static/js/27.f38c07f3.chunk.js",
-    "static/media/body-bg.svg": "/static/media/body-bg.2d555d1a4592c3f976e9.svg",
     "static/media/how_it_works.svg": "/static/media/how_it_works.26ac87245c448766c6cf86a6c70c09ba.svg",
     "static/media/liquidity-bg.png": "/static/media/liquidity-bg.68de7070a0401a481bf1.png",
     "static/media/how-it-works-bg.png": "/static/media/how-it-works-bg.c84099418bdfb94ef72b.png",
-    "static/media/Planer_Reg.woff": "/static/media/Planer_Reg.8f36465a056a06166368.woff",
+    "static/media/logo_app.png": "/static/media/logo_app.bc98215e13abe4bd865f.png",
     "static/media/resize.png": "/static/media/resize.2f562e04d82163374a0e.png",
+    "static/media/montserrat-v24-latin-regular.woff": "/static/media/montserrat-v24-latin-regular.4523d055ce95b0cf0233.woff",
     "static/media/tm2_cl.svg": "/static/media/tm2_cl.5b043bb156feef2538be5f6bae31676f.svg",
     "static/media/tm2.svg": "/static/media/tm2.b8152961fdcc2bb6b1765f21523f1f89.svg",
     "static/media/tm3_cl.svg": "/static/media/tm3_cl.19f5532d51bfd274e86abea11449210c.svg",
@@ -27,7 +27,7 @@
     "static/media/arrow.svg": "/static/media/arrow.b469644a0b816a291365ac1c7800d85a.svg"
   },
   "entrypoints": [
-    "static/css/main.3febdaaa.css",
-    "static/js/main.1279eee4.js"
+    "static/css/main.0d6d5c69.css",
+    "static/js/main.28783332.js"
   ]
 }
