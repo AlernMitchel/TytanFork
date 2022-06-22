@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3febdaaa.css",
+    "main.js": "/static/js/main.1279eee4.js",
+    "static/js/108.f4430b5e.chunk.js": "/static/js/108.f4430b5e.chunk.js",
+    "static/js/27.f38c07f3.chunk.js": "/static/js/27.f38c07f3.chunk.js",
+    "static/media/body-bg.svg": "/static/media/body-bg.2d555d1a4592c3f976e9.svg",
+    "static/media/how_it_works.svg": "/static/media/how_it_works.26ac87245c448766c6cf86a6c70c09ba.svg",
+    "static/media/liquidity-bg.png": "/static/media/liquidity-bg.68de7070a0401a481bf1.png",
+    "static/media/how-it-works-bg.png": "/static/media/how-it-works-bg.c84099418bdfb94ef72b.png",
+    "static/media/Planer_Reg.woff": "/static/media/Planer_Reg.8f36465a056a06166368.woff",
+    "static/media/resize.png": "/static/media/resize.2f562e04d82163374a0e.png",
+    "static/media/tm2_cl.svg": "/static/media/tm2_cl.5b043bb156feef2538be5f6bae31676f.svg",
+    "static/media/tm2.svg": "/static/media/tm2.b8152961fdcc2bb6b1765f21523f1f89.svg",
+    "static/media/tm3_cl.svg": "/static/media/tm3_cl.19f5532d51bfd274e86abea11449210c.svg",
+    "static/media/tm3.svg": "/static/media/tm3.ac072d337111d62af9bb07008ca4e628.svg",
+    "static/media/buy.svg": "/static/media/buy.a790b07db429a5788f2ab80a5d6dfeb6.svg",
+    "static/media/sell.svg": "/static/media/sell.831b57dd64473c62eda4fe4b9461fc9b.svg",
+    "static/media/tm1_cl.svg": "/static/media/tm1_cl.f9512e277ee03201c10385966a906242.svg",
+    "static/media/tm4_cl.svg": "/static/media/tm4_cl.70c9b0dc85fa29cae91685ff4da231ac.svg",
+    "static/media/tm4.svg": "/static/media/tm4.30cfa7bee7d97bdf2927bc9bb924c046.svg",
+    "static/media/tm1.svg": "/static/media/tm1.80d6d58b265de57d6b4ca6d062533c36.svg",
+    "static/media/cross.svg": "/static/media/cross.b5c6a736d7e35d04605b0b566bf62035.svg",
+    "static/media/tick2.svg": "/static/media/tick2.bdcb761701fbd356c2923f88273646b1.svg",
+    "static/media/tick.svg": "/static/media/tick.f3c2a7194120212eb9fed5b930132176.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.b469644a0b816a291365ac1c7800d85a.svg"
+  },
+  "entrypoints": [
+    "static/css/main.3febdaaa.css",
+    "static/js/main.1279eee4.js"
+  ]
+}
